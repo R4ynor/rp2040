@@ -1,0 +1,49 @@
+AR checking written on:
+'C:\Users\Alberto\Documents\GitHub\rp2040\rp2040_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.125
+PHD margin on PTH = 0
+
+AR Via violation of 0.05 at XY 165.5,89.55
+AR Via violation of 0.05 at XY 169.4325,94.2175
+AR Via violation of 0.05 at XY 159.8,89.55
+AR Via violation of 0.05 at XY 161.1,97.65
+AR Via violation of 0.05 at XY 164.3,97.65
+AR Via violation of 0.05 at XY 179.55,105.5
+AR Via violation of 0.05 at XY 158.35,91.8
+AR Via violation of 0.05 at XY 158.4,95.05
+AR Via violation of 0.05 at XY 168.7,86.95
+AR Via violation of 0.05 at XY 151.95,92.9
+AR Via violation of 0.05 at XY 152.45,87.75
+AR Via violation of 0.05 at XY 156.2,90.45
+AR Via violation of 0.05 at XY 167.1,102.15
+AR Via violation of 0.05 at XY 164.2,103.35
+AR Via violation of 0.05 at XY 160.75,100.9
+AR Via violation of 0.05 at XY 149.97,89.03
+AR Via violation of 0.05 at XY 168.6,101.05
+AR Via violation of 0.05 at XY 174.7,88.3
+AR Via violation of 0.05 at XY 164.8,87.15
+AR Via violation of 0.05 at XY 172.25,86.65
+AR Via violation of 0.05 at XY 154.95,94.7
+AR Via violation of 0.05 at XY 148.85,106.8
+AR Via violation of 0.05 at XY 175.2,96.8
+AR Via violation of 0.05 at XY 176.0,93.0
+AR Via violation of 0.05 at XY 154.625,90.3
+AR Via violation of 0.05 at XY 173.02981,88.32019
+AR Via violation of 0.05 at XY 172.57019,88.77981
+AR Via violation of 0.05 at XY 155.275,90.3
+AR Via violation of 0.05 at XY 151.9,101.45
+AR Via violation of 0.05 at XY 160.8,99.75
+AR Via violation of 0.05 at XY 161.15,100.35
+AR Via violation of 0.05 at XY 150.4,102.0
+AR Via violation of 0.05 at XY 146.025489,82.725489
+AR Via violation of 0.05 at XY 179.45,85.05
+AR Via violation of 0.05 at XY 165.75,93.4
+AR Via violation of 0.05 at XY 168.112741,93.587235
+AR Via violation of 0.05 at XY 179.55,108.15
+AR Via violation of 0.05 at XY 167.7,93.95
+VIAS that Pass = 0; Fails = 38
+TH PADS that Pass = 53; Fails = 0
+NPTH PADS that Pass = 0; Fails = 0
